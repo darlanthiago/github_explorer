@@ -4,7 +4,7 @@ This is a project done during the Rocketseat course.
 
 ## Installation
 
-Use the package manager to install foobar.
+Use the package manager to install GitHub Explorer.
 
 ```bash
 yarn
@@ -16,4 +16,4 @@ OU
 npm install
 ```
 
-<img src=””>
+<img src=”https://github.com/darlanthiago/github_explorer/blob/master/src/assets/img/screenshot.png?raw=true” height="150">

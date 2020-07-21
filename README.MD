@@ -16,4 +16,4 @@ OU
 npm install
 ```
 
-<img src=”https://github.com/darlanthiago/github_explorer/blob/master/src/assets/img/screenshot.png” height="150">
+![](https://raw.githubusercontent.com/darlanthiago/github_explorer/master/src/assets/img/screenshot.png)

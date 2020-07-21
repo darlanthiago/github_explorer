@@ -10,7 +10,7 @@ Use the package manager to install GitHub Explorer.
 yarn
 ```
 
-OU
+OR
 
 ```bash
 npm install

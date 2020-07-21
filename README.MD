@@ -16,4 +16,6 @@ OU
 npm install
 ```
 
+## Screenshot
+
 ![](https://raw.githubusercontent.com/darlanthiago/github_explorer/master/src/assets/img/screenshot.png)
